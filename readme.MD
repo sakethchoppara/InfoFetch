@@ -1,5 +1,7 @@
 to start -
-Linux - chmod +x start.sh 
+Linux -
+
+        chmod +x start.sh 
 
         ./start.sh
 
