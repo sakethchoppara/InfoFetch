@@ -1,5 +1,6 @@
 to start -
 Linux - chmod +x start.sh 
+
         ./start.sh
 
 windows - ./start.bat
